@@ -4,6 +4,8 @@
 #! pip install --user mlflow
  
 import os
+os.environ['MLFLOW_TRACKING_USERNAME'] = 'npawi'
+os.environ['MLFLOW_TRACKING_PASSWORD'] = 'Enana123!'
 import warnings
 import sys
  
