@@ -4,5 +4,4 @@ matplotlib
 seaborn
 numpy
 mlflow
-mlflow.sklearn
 logging
